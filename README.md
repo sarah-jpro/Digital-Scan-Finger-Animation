@@ -4,7 +4,7 @@
 </p>
 
 # 🖐️ Digital-Scan-Finger-Animation ☝️
--------------------------------
+
 
 Small fun effect. A simple finger Scan animation. It's magic 🪄
 
@@ -17,7 +17,7 @@ Languages:
 - HTML 5
 - CSS 3
 
-# 👀 Overview  : # 🤖 More fun look here: ➡️
+ 👀 Overview  :  🤖 More fun look here: ➡️  https://sarah-jpro.github.io/Digital-Scan-Finger-Animation/
 
 <p align="center">
 <img src="img\vue1.jpeg" width="400">
